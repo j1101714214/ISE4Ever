@@ -13,11 +13,10 @@
 
 目前正在紧张开发当中，第一版将为c++语言制作，具体介绍可观看库内展示ppt。
 
-
-
-===================================================================
+=============================================================================
 
 # ISE4ever/"idiot" course-picking system
+
 
 <img src="./skr.jpg" style="zoom:2%;" />This is "Idiot" course-picking system developed by ISE4ever 
 
@@ -32,5 +31,5 @@ Now we are having great effort on constructing this project. First version will 
 
 ##### If you are interesting in our project, watching our powerpoint in repository for more details.
 
-
+===============================================================================
 
