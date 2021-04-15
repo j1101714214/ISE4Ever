@@ -1,6 +1,6 @@
 # ISE4ever/智能选课系统
 
-<img src="./skr.jpg" style="zoom:2%;" />这里是ISE4ever的智能选课系统
+<img src="./skr.jpg" width = "30" height = "24" />这里是ISE4ever的智能选课系统
 
 旨在为广大dai学生解决选课困难问题
 
@@ -18,7 +18,7 @@
 # ISE4ever/"idiot" course-picking system
 
 
-<img src="./skr.jpg" style="zoom:2%;" />This is "Idiot" course-picking system developed by ISE4ever 
+<img src="./skr.jpg" width = "30" height = "24" />This is "Idiot" course-picking system developed by ISE4ever 
 
 We have following amazing features:
 
