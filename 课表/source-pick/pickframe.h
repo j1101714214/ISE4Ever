@@ -15,6 +15,13 @@ public:
     explicit Pickframe(QWidget *parent = nullptr);
     ~Pickframe();
 
+private slots:
+    void on_searchT_textChanged();
+
+    void on_Button_search_clicked();
+
+    void on_tableWidget_cellChanged(int row, int column);
+
 private:
     Ui::Pickframe *ui;
 };
