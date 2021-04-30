@@ -1,0 +1,10 @@
+About.o
+Courses.o
+Serch.o
+main.o
+mainwindow.o
+pickframe.o
+qrc_resource.o
+moc_About.o
+moc_mainwindow.o
+moc_pickframe.o

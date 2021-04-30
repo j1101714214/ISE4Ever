@@ -1,6 +1,0 @@
-﻿  Courses.cpp
-C:\Users\阿满\Desktop\课表\课表\Courses.cpp(34,9): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
-C:\Users\阿满\Desktop\课表\课表\Courses.cpp(148,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  课表.cpp
-  正在生成代码...
-  课表.vcxproj -> C:\Users\阿满\Desktop\课表\Debug\课表.exe
